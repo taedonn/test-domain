@@ -1,3 +1,3 @@
 # 테스트 도메인
 
-https://test.taedonn.com
+https://taedonn.github.io/test-domain/
